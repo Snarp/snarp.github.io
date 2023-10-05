@@ -1,13 +1,27 @@
 # snarp
 
-*  [The Magnus Archives Transcripts Archive Archive A (Extremely Unofficial)](https://snarp.github.io/magnus_archives_transcripts/)
+* [snarp@snarp.work](mailto:snarp@snarp.work)
 
-*  [tanb..slime man](https://github.com/Snarp/tanb_slime_man), a Sinatra-based Tumblr client
+* snarp.@discord
 
-*  [snarp's Tumblr](https://snarp.tumblr.com/)
+* [github.com/Snarp](https://github.com/Snarp/)
 
-*  [snarp's Dreamwidth blog](https://snarp.dreamwidth.org/) _(inactive)_
+* [snarp.tumblr.com](https://snarp.tumblr.com/)
 
-*  [www.snarp.work](http://www.snarp.work/) _(inactive)_
+* [snarp.dreamwidth.org](https://snarp.dreamwidth.org/)
 
-*  Email: [snarp@snarp.work](mailto:snarp@snarp.work)
+* [mastodon.cloud/@snarp](http://mastodon.cloud/@snarp)
+
+* [cohost.org/snarp](https://cohost.org/snarp)
+
+* [twitter.com/snarp](https://twitter.com/snarp)
+
+* [archiveofourown.org/users/Snarp](https://archiveofourown.org/users/Snarp)
+
+* [www.snarp.work](http://www.snarp.work/)
+
+## Projects
+
+* [The Magnus Archives Transcripts Archive Archive A (Extremely Unofficial)](https://snarp.github.io/magnus_archives_transcripts/)
+
+* [tanb..slime man](https://github.com/Snarp/tanb_slime_man), a Sinatra-based Tumblr client
